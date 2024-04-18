@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Game","order":11,"path":"folders/Game.yy",},
+    {"name":"Platformer","order":1,"path":"folders/Game/Platformer.yy",},
+    {"name":"Character","order":4,"path":"folders/Game/Platformer/Character.yy",},
+    {"name":"Collisions","order":5,"path":"folders/Game/Platformer/Collisions.yy",},
+    {"name":"Platform","order":4,"path":"folders/Game/Platformer/Collisions/Platform.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_platform","order":1,"path":"sprites/spr_platform/spr_platform.yy",},
+    {"name":"obj_character","order":1,"path":"objects/obj_character/obj_character.yy",},
+    {"name":"obj_solid","order":1,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"pkg_platformer","order":1,"path":"scripts/pkg_platformer/pkg_platformer.yy",},
+    {"name":"spr_solid","order":2,"path":"sprites/spr_solid/spr_solid.yy",},
+    {"name":"spr_slope","order":3,"path":"sprites/spr_slope/spr_slope.yy",},
+  ],
+}
